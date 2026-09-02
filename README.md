@@ -18,9 +18,9 @@ Sou **Bacharel em Ciência da Computação** pela **Universidade Federal de Uber
 
 ## 📌 Projetos em destaque
 
-- **TCC-SODD-Otimizacao-Horarios** — Trabalho de Conclusão de Curso: sistema de otimização de horários.
-- **Alura_Studies** — Aplicação em React/TypeScript desenvolvida durante estudos.
-- **AED1-TCD** — Algoritmos e Estruturas de Dados implementados em C.
+- **[TCC — Otimização de Horários](https://github.com/GMA-gustavo/TCC-SODD-Otimizacao-Horarios)** — módulo de otimização de grade horária (Course Timetabling) do sistema SODD da FACOM/UFU.
+- **[Truco Terminal (C)](https://github.com/GMA-gustavo/truco-terminal-c)** — jogo de Truco jogável no terminal, com bot adversário e ranking persistente.
+- **[AED1 — Algoritmos e Estruturas de Dados](https://github.com/GMA-gustavo/AED1-TCD)** — implementações em C.
 
 ## 🔗 Onde me encontrar
 
