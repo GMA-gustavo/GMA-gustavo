@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo 👋
 
-<!--
-**GMA-gustavo/GMA-gustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Bacharel em Ciência da Computação** pela **Universidade Federal de Uberlândia (UFU)** e desenvolvedor em início de carreira, morando em **Goiânia-GO**. Gosto de construir software que resolve problemas reais — do back-end à interface — e tenho um interesse especial por **desenvolvimento de jogos** 🎮.
 
-Here are some ideas to get you started:
+- 🌱 Foco atual: **desenvolvimento web (React/TypeScript)** e **jogos (Unity/C#)**
+- 💼 Aberto a oportunidades **júnior** — remoto ou em Goiânia
+- 🗣️ Português (nativo) e **Inglês avançado (C1)**
+- 📫 **gustavoamorim2003@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+- **Linguagens:** Java · C# · JavaScript · TypeScript · Python · C
+- **Front-end:** React · HTML · CSS
+- **Back-end:** Spring Boot · Node.js
+- **Jogos:** Unity
+- **Banco de dados:** PostgreSQL · SQL
+- **Ferramentas:** Git · Docker
+
+## 📌 Projetos em destaque
+
+- **TCC-SODD-Otimizacao-Horarios** — Trabalho de Conclusão de Curso: sistema de otimização de horários.
+- **Alura_Studies** — Aplicação em React/TypeScript desenvolvida durante estudos.
+- **AED1-TCD** — Algoritmos e Estruturas de Dados implementados em C.
+
+## 🔗 Onde me encontrar
+
+- LinkedIn: https://www.linkedin.com/in/gustavo-mascarenhas-83651a2a6
+- E-mail: gustavoamorim2003@gmail.com
